@@ -1,0 +1,7 @@
+ITD 210 Project Bootstrap project requirements
+
+		used lists
+		used buttons
+		site is responsive
+		used Modal, Popover, Carousel, Collapse, & Tooltip
+		created a non-working form with email and comments
